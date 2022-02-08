@@ -9,6 +9,7 @@ The PyCity School District School Board believes that the students_complete.csv 
 ## Results: 
 
 - ### How is the district summary affected?
+At the district leve the percent passing math, the percent passing reading and the overall passing percentage all increase. The average math and avearge reading scores also see slight increases. Please note that the screenshots below are formatted differently as one is formatted per the specifications in the module and one per the specifications in the challenge. This is why there is a decimal difference between the screenshots.
 
 #### Before
 
