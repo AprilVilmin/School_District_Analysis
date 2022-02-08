@@ -39,18 +39,21 @@ As is shown in the screenshots below, not all schools are affected by the data f
 ##### Math
 
 ###### Before
-![Math Scores by Grade Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Math%20Scores%20by%20Grade%20Before.png)
+![New Math Scores by Grade.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/New%20Math%20Scores%20by%20Grade.png)
+
+###### After
+![New After Math Score by grade.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/New%20After%20Math%20Score%20by%20grade.png)
 
 ##### Reading 
 
 ###### Before
 
-![Reading Scores by Grade Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Reading%20Scores%20by%20%20Grade%20Before.png)
+![New Reading Scores by Grade.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/New%20Reading%20Scores%20by%20Grade.png)
 
-##### Math & Reading After
-![Math and Reading Scores by Grade After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Math%20and%20Reading%20Scores%20by%20Grade%20After.png)
+###### After
 
-![Math and Reading Scores by Grade After (1).png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Math%20and%20Reading%20Scores%20by%20Grade%20After%20(1).png)
+![New After Reading Score by Grade.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/New%20After%20Reading%20Score%20by%20Grade.png)
+
 
 - #### Scores by school spending:
 ##### Math & Reading
