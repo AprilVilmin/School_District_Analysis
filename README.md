@@ -12,17 +12,17 @@ The PyCity School District School Board believes that the students_complete.csv 
 
 ## Before
 
-![District Summary Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/District%20Summary%20Before.png.png)
+![District Summary Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/District%20Summary%20Before.png)
 
 ## After
 
-![District Summary After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/District%20Summary%20After.png.png)
+![District Summary After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/District%20Summary%20After.png)
 
 - ## How is the school summary affected?
 
 ### Before
 
-![School Summary Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/School%20Summary%20Before.png.png)
+![School Summary Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/School%20Summary%20Before.png)
 
 ### After
 
