@@ -33,70 +33,49 @@ The PyCity School District School Board believes that the students_complete.csv 
 #### Math
 
 ##### Before
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
-
-##### After
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
+![Math Scores by Grade Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Math%20Scores%20by%20Grade%20Before.png)
 
 #### Reading 
 
 ##### Before
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
-##### After
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
+![Math Scores by Grade Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Math%20Scores%20by%20Grade%20Before.png)
+
+#### Math & Reading After
+![Math and Reading Scores by Grade After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Math%20and%20Reading%20Scores%20by%20Grade%20After.png)
+
+![Math and Reading Scores by Grade After (1).png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Math%20and%20Reading%20Scores%20by%20Grade%20After%20(1).png)
 
 - ### Scores by school spending:
-#### Math
+#### Math & Reading
 
 ##### Before
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
+![Spending Randges Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Spending%20Ranges%20Before.png)
 
 ##### After
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
-#### Reading 
+![Spending Ranges After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Spending%20Ranges%20After.png)
+
+
+- ### Scores by school size:
+
+#### Math & Reading
 
 ##### Before
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
+![By School Size Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/By%20School%20Size%20Before.png)
 
 ##### After
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
+![By School Size After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/By%20School%20Size%20After.png)
 
-- Scores by school size:
-
-#### Math
-
-##### Before
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
-
-##### After
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
-
-#### Reading 
-
-##### Before
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
-
-##### After
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 - ### Scores by school type:
 
-#### Math
+#### Math & Reading
 
 ##### Before
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
+![By School Type Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/By%20School%20Type%20Before.png)
 
 ##### After
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
-
-#### Reading 
-
-##### Before
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
-
-##### After
-![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
+![By School Type After](https://github.com/AprilVilmin/School_District_Analysis/blob/main/By%20School%20Type%20After.png)
 
 ## Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
