@@ -9,7 +9,7 @@ The information gathered through this analysis will be used by the school board 
 
 ## Results: 
 
--How is the district summary affected?
+- How is the district summary affected?
 
 -How is the school summary affected?
 
