@@ -8,79 +8,78 @@ The PyCity School District School Board believes that the students_complete.csv 
 
 ## Results: 
 
-- # How is the district summary affected?
+- ### How is the district summary affected?
 
-## Before
+#### Before
 
-## After
-
-- ## How is the school summary affected?
-
-### Before
+![District Summary Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/District%20Summary%20Before.png)
 
 ### After
 
-- ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+![District Summary After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/District%20Summary%20After.png)
 
-### Before
+- ### How is the school summary affected?
 
-### After
+#### Before
 
-- ## How does replacing the ninth-grade scores affect the following:
+![School Summary Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/School%20Summary%20Before.png)
 
-- ### Math and reading scores by grade:
-#### Math
+#### After
 
-##### Before
+![SChool Summary After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/School%20Summary%20After.png)
 
-##### After
+- ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-#### Reading 
 
-##### Before
+- ### How does replacing the ninth-grade scores affect the following:
 
-##### After
+- #### Math and reading scores by grade:
+##### Math
 
-- ### Scores by school spending:
-#### Math
+###### Before
+![Math Scores by Grade Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Math%20Scores%20by%20Grade%20Before.png)
 
-##### Before
+##### Reading 
 
-##### After
+###### Before
 
-#### Reading 
+![Reading Scores by Grade Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Reading%20Scores%20by%20%20Grade%20Before.png)
 
-##### Before
+##### Math & Reading After
+![Math and Reading Scores by Grade After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Math%20and%20Reading%20Scores%20by%20Grade%20After.png)
 
-##### After
+![Math and Reading Scores by Grade After (1).png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Math%20and%20Reading%20Scores%20by%20Grade%20After%20(1).png)
 
-- Scores by school size:
+- #### Scores by school spending:
+##### Math & Reading
 
-#### Math
+###### Before
+![Spending Randges Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Spending%20Ranges%20Before.png)
 
-##### Before
+###### After
+![Spending Ranges After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Spending%20Ranges%20After.png)
 
-##### After
 
-#### Reading 
+- #### Scores by school size:
 
-##### Before
+##### Math & Reading
 
-##### After
+###### Before
+![By School Size Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/By%20School%20Size%20Before.png)
 
-- ### Scores by school type:
+###### After
+![By School Size After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/By%20School%20Size%20After.png)
 
-#### Math
 
-##### Before
+- #### Scores by school type:
 
-##### After
+##### Math & Reading
 
-#### Reading 
+###### Before
+![By School Type Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/By%20School%20Type%20Before.png)
 
-##### Before
-
-##### After
+###### After
+![By School Type After](https://github.com/AprilVilmin/School_District_Analysis/blob/main/By%20School%20Type%20After.png)
 
 ## Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
