@@ -39,7 +39,7 @@ The PyCity School District School Board believes that the students_complete.csv 
 
 ##### Before
 
-![Reading Scores by Grade Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Spending%20Ranges%20After.png)
+![Reading Scores by Grade Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Reading%20Scores%20by%20%20Grade%20Before.png)
 
 #### Math & Reading After
 ![Math and Reading Scores by Grade After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/Math%20and%20Reading%20Scores%20by%20Grade%20After.png)
