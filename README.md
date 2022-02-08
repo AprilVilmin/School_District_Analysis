@@ -9,7 +9,7 @@ The PyCity School District School Board believes that the students_complete.csv 
 ## Results: 
 
 - ### How is the district summary affected?
-At the district leve the percent passing math, the percent passing reading and the overall passing percentage all increase. The average math and avearge reading scores also see slight increases. Please note that the screenshots below are formatted differently as one is formatted per the specifications in the module and one per the specifications in the challenge. This is why there is a decimal difference between the screenshots.
+At the district level the student count and the budget metrics do not change. But the the majority of metrics pertaining to the math and reading scores for the state standardized testing show slight decreases due to removing the ninth grade test scores from Thomas High School. The difference is more obvious before some of the formatting takes place. Please note that the screenshots below are formatted differently as one is formatted per the specifications in the module and one per the specifications in the challenge. This is why there is a decimal difference between the screenshots.
 
 #### Before
 
@@ -20,20 +20,21 @@ At the district leve the percent passing math, the percent passing reading and t
 ![District Summary After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/District%20Summary%20After.png)
 
 - ### How is the school summary affected?
+The only changes on this were for Thomas High School which is what is expected is this was the only thing that was replaced with NaN when the new analysis was completed. The total students and school budget metrics for Thomas High School Remained the same when all of the other metrics for this high school changed on the School Summary data frame.
 
 #### Before
 
-![School Summary Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/School%20Summary%20Before.png)
+![new school summary before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/new%20school%20summary%20before.png)
 
 #### After
 
-![SChool Summary After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/School%20Summary%20After.png)
+![new school summary after.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/new%20school%20summary%20after.png)
 
 - ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
+Repacing the nith graders math and reading scores caused Thomas High School to drop from first place to third place for the percentage of students who passed reading metric, but they remained in seventh place for math and second place for highest overall percentagein both reading and math. Please see the screenshots below.
 
 - ### How does replacing the ninth-grade scores affect the following:
-
+As is shown in the screenshots below, not all schools are affected by the data for ninth graders at Thomas high school beeing updated. 
 - #### Math and reading scores by grade:
 ##### Math
 
@@ -62,7 +63,7 @@ At the district leve the percent passing math, the percent passing reading and t
 
 
 - #### Scores by school size:
-
+The removal of values for ninth graders at Thomas High School does not appear to have a significant affect on the math and reading scores by school size as is illustrated in the screenshots below. The scores stay stagnant at the level shown.
 ##### Math & Reading
 
 ###### Before
@@ -73,6 +74,7 @@ At the district leve the percent passing math, the percent passing reading and t
 
 
 - #### Scores by school type:
+The removal of values for ninth graders at Thomas High School does not appear to have a significant affect on the math and reading scores by school type as is illustrated in the screenshots below. The scores stay stagnant at the level shown.
 
 ##### Math & Reading
 
