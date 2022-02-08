@@ -11,20 +11,21 @@ The PyCity School District School Board believes that the students_complete.csv 
 - # How is the district summary affected?
 
 ## Before
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 ## After
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 - ## How is the school summary affected?
 
 ### Before
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 ### After
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 - ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-### Before
-
-### After
 
 - ## How does replacing the ninth-grade scores affect the following:
 
@@ -32,55 +33,70 @@ The PyCity School District School Board believes that the students_complete.csv 
 #### Math
 
 ##### Before
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 ##### After
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 #### Reading 
 
 ##### Before
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 ##### After
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 - ### Scores by school spending:
 #### Math
 
 ##### Before
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 ##### After
-
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 #### Reading 
 
 ##### Before
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 ##### After
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 - Scores by school size:
 
 #### Math
 
 ##### Before
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 ##### After
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 #### Reading 
 
 ##### Before
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 ##### After
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 - ### Scores by school type:
 
 #### Math
 
 ##### Before
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 ##### After
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 #### Reading 
 
 ##### Before
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 ##### After
+![2017 Before Refactoring.png](https://github.com/AprilVilmin/stock-analysis/blob/main/2017%20Before%20Refactoring.png)
 
 ## Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
