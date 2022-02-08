@@ -31,10 +31,10 @@ The only changes on this were for Thomas High School which is what is expected i
 ![new school summary after.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/new%20school%20summary%20after.png)
 
 - ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
+Repacing the nith graders math and reading scores caused Thomas High School to drop from first place to third place for the percentage of students who passed reading metric, but they remained in seventh place for math and second place for highest overall percentagein both reading and math. Please see the screenshots below.
 
 - ### How does replacing the ninth-grade scores affect the following:
-
+As is shown in the screenshots below, not all schools are affected by the data for ninth graders at Thomas high school beeing updated. 
 - #### Math and reading scores by grade:
 ##### Math
 
@@ -63,7 +63,7 @@ The only changes on this were for Thomas High School which is what is expected i
 
 
 - #### Scores by school size:
-
+The removal of values for ninth graders at Thomas High School does not appear to have a significant affect on the math and reading scores by school size as is illustrated in the screenshots below. The scores stay stagnant at the level shown.
 ##### Math & Reading
 
 ###### Before
@@ -74,6 +74,7 @@ The only changes on this were for Thomas High School which is what is expected i
 
 
 - #### Scores by school type:
+The removal of values for ninth graders at Thomas High School does not appear to have a significant affect on the math and reading scores by school type as is illustrated in the screenshots below. The scores stay stagnant at the level shown.
 
 ##### Math & Reading
 
