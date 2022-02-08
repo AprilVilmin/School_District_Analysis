@@ -9,7 +9,7 @@ The PyCity School District School Board believes that the students_complete.csv 
 ## Results: 
 
 - ### How is the district summary affected?
-At the district leve the percent passing math, the percent passing reading and the overall passing percentage all increase. The average math and avearge reading scores also see slight increases. the difference is more obvious before some of the formatting takes place. Please note that the screenshots below are formatted differently as one is formatted per the specifications in the module and one per the specifications in the challenge. This is why there is a decimal difference between the screenshots.
+At the district level the student count and the budget metrics do not change. But the the majority of metrics pertaining to the math and reading scores for the state standardized testing show slight decreases due to removing the ninth grade test scores from Thomas High School. The difference is more obvious before some of the formatting takes place. Please note that the screenshots below are formatted differently as one is formatted per the specifications in the module and one per the specifications in the challenge. This is why there is a decimal difference between the screenshots.
 
 #### Before
 
@@ -20,6 +20,7 @@ At the district leve the percent passing math, the percent passing reading and t
 ![District Summary After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/District%20Summary%20After.png)
 
 - ### How is the school summary affected?
+The only changes on this were for Thomas High School which is what is expected is this was the only thing that was replaced with NaN when the new analysis was completed. The total students and school budget metrics for Thomas High School Remained the same when all of the other metrics for this high school changed on the School Summary data frame.
 
 #### Before
 
