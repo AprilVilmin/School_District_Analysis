@@ -9,7 +9,7 @@ The PyCity School District School Board believes that the students_complete.csv 
 ## Results: 
 
 - ### How is the district summary affected?
-At the district leve the percent passing math, the percent passing reading and the overall passing percentage all increase. The average math and avearge reading scores also see slight increases. Please note that the screenshots below are formatted differently as one is formatted per the specifications in the module and one per the specifications in the challenge. This is why there is a decimal difference between the screenshots.
+At the district leve the percent passing math, the percent passing reading and the overall passing percentage all increase. The average math and avearge reading scores also see slight increases. the difference is more obvious before some of the formatting takes place. Please note that the screenshots below are formatted differently as one is formatted per the specifications in the module and one per the specifications in the challenge. This is why there is a decimal difference between the screenshots.
 
 #### Before
 
@@ -23,11 +23,11 @@ At the district leve the percent passing math, the percent passing reading and t
 
 #### Before
 
-![School Summary Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/School%20Summary%20Before.png)
+![new school summary before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/new%20school%20summary%20before.png)
 
 #### After
 
-![SChool Summary After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/School%20Summary%20After.png)
+![new school summary after.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/new%20school%20summary%20after.png)
 
 - ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
