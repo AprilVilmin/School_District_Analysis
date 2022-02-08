@@ -11,17 +11,21 @@ The PyCity School District School Board believes that the students_complete.csv 
 - ## How is the district summary affected?
 
 ## Before
+
 ![District Summary Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/District%20Summary%20Before.png.png)
 
 ## After
+
 ![District Summary After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/District%20Summary%20After.png.png)
 
 - ## How is the school summary affected?
 
 ### Before
+
 ![School Summary Before.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/School%20Summary%20Before.png.png)
 
 ### After
+
 ![SChool Summary After.png](https://github.com/AprilVilmin/School_District_Analysis/blob/main/School%20Summary%20After.png)
 
 - ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
